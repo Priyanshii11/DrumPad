@@ -11,7 +11,7 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/drum"
         android:label="DrumPad"
-        android:roundIcon="@color/white"
+        android:roundIcon="#F1EAEA"
         android:supportsRtl="true"
         android:theme="@style/Theme.DrumApp"
         tools:targetApi="31">
